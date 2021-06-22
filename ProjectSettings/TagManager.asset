@@ -1,0 +1,62 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Robot
+  - BoxMenu
+  - CapacityError
+  - Storage
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Blockinglayer
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Floor
+    uniqueID: 1589525869
+    locked: 0
+  - name: Shelfs
+    uniqueID: 2604309935
+    locked: 0
+  - name: Structures
+    uniqueID: 3955570943
+    locked: 0
+  - name: Units
+    uniqueID: 2747254973
+    locked: 0
+  - name: UIInfo
+    uniqueID: 778604399
+    locked: 0
